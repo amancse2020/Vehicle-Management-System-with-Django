@@ -1,1 +1,2 @@
 # Vehicle-Management-System-with-Django
+The objective of this assignment is to create a basic Vehicle Management System using the Django framework. The system will allow users to collect vehicle information along with the D.C. (Delivery Challan) number and P.O. (Purchase Order) number. With the entered P.O. number, the system will retrieve vendor data and product information. The security department will conduct quality checks, and finally, the vehicle will be checked out.
